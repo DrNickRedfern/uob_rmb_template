@@ -1,0 +1,35 @@
+---
+title: Research Metrics Bulletin X
+subtitle: Research and Innovation Services
+date: today
+date-format: "DD MMMM YYYY"
+format:
+  uob_rmb-pdf:
+    keep-tex: true
+    papersize: a4
+    number-sections: true
+    number-depth: 1
+---
+
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+pacman::p_load(tidyverse)  # load any required packages for analysis here
+```
+
+# Give each section a level one heading
+
+:::{.callout-note}
+## tldr;
+Summarise each section one or two sentences
+:::
+
+\bigskip
+
+Add the introduction here
+
+## This a level two heading
+

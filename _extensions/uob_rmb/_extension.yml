@@ -1,0 +1,14 @@
+title: uob_rmb
+author: Nick Redfern, adapted from PrettyPDF by Nicola Rennie
+version: 0.0.1
+contributes:
+  formats: 
+    pdf:
+      include-in-header: 
+       - "uob_rmb.tex"
+      include-before-body:
+       - "pagestyle.tex"
+       - "col_defs.tex"
+      toc: false
+      linkcolor: highlight
+      urlcolor: highlight
