@@ -1,4 +1,4 @@
-# uob_rmb_template
+# University of Bradford Research Metrics Bulletin template
 
  A quarto extension for producing research metrics bulletins at the University Of Bradford.
 
